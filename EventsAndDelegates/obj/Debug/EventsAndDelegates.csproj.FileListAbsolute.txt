@@ -1,0 +1,7 @@
+C:\Users\karth\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+C:\Users\karth\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+C:\Users\karth\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+C:\Users\karth\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojResolveAssemblyReference.cache
+C:\Users\karth\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+C:\Users\karth\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
