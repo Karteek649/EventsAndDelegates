@@ -8,6 +8,7 @@ namespace EventsAndDelegates
 {
     class Video
     {
+        //Author ryeruban
         public string Title { get; set; }
 
     }
