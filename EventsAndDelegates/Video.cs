@@ -8,7 +8,7 @@ namespace EventsAndDelegates
 {
     class Video
     {
-        //Author ryeruban test
+        //Author ryeruban test hello
         public string Title { get; set; }
 
     }
